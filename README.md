@@ -1,0 +1,2 @@
+# 4x4-4-bit-Dadda-multiplier-using-verilog
+The Dadda multiplier is a hardware binary multiplier design invented by computer scientist Luigi Dadda in 1965.[1] It uses a selection of full and half adders to sum the partial products in stages (the Dadda tree or Dadda reduction) until two numbers are left. The design is similar to the Wallace multiplier, but the different reduction tree reduces the required number of gates (for all but the smallest operand sizes) and makes it slightly faster (for all operand sizes).In this we make 4  bit Dadda multiplier
